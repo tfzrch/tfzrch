@@ -22,6 +22,9 @@ Here are some ideas to get you started:
       <a href="https://www.linkedin.com/in/tfzrch/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
       </a>
+      <a href="https://tfzrch.github.io/">
+        <img src="https://img.shields.io/badge/Website-tfzrch.github.io-blueviolet?style=for-the-badge" alt="Website Badge">
+      </a>
     </div>
   </div>
   <div id="tagline">
