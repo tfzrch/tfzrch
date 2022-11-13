@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
 
-- 👨‍🏫 I work as a Data Coach: teaching learners on the [Data Analyst Apprenticeship](https://www.instituteforapprenticeships.org/apprenticeship-standards/data-analyst/) and helping solve business problems with data
+- 👨‍🏫 I work as a Specialist Trainer: teaching learners on the [Data Analyst](https://www.instituteforapprenticeships.org/apprenticeship-standards/data-analyst/)     and Data Technician apprenticeships.
 - 🔭 I’m currently working on - [Learnr tutorial on Linear Regression](https://github.com/tfzrch/learnr-linear-regression), Electricity Consumption Forecast
 - 🌱 I’m currently learning - Linux, Docker, Zsh/Bash, Time Series Forecasting, Decision Trees
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/tfzrch/)
