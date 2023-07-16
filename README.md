@@ -29,15 +29,15 @@ Here are some ideas to get you started:
   </div>
   <div id="tagline">
     <h3>Hi there, I'm Tom 👋</h3>
-    <p>I'm a data scientist, educator, R enthusiast and archaeological scientist.</p>
+    <p>I'm a data scientist, R enthusiast and archaeological scientist.</p>
   </div>
 </div>
 
 ### 👨‍💻 About Me
 
-- 👨‍🏫 I work as a Specialist Trainer: teaching learners on the [Data Analyst](https://www.instituteforapprenticeships.org/apprenticeship-standards/data-analyst/)     and Data Technician apprenticeships.
-- 🔭 I’m currently working on - [Learnr tutorial on Linear Regression](https://github.com/tfzrch/learnr-linear-regression), Electricity Consumption Forecast
-- 🌱 I’m currently learning - Linux, Docker, Zsh/Bash, Time Series Forecasting, Decision Trees
+- 🔭 I’m currently working on: [Palmer Penguins Shiny Dashboard](https://github.com/tfzrch/penguins-shiny), Electricity Consumption Forecast
+- 🌱 I’m currently learning: Linux ([NixOS](https://nixos.org/)), Docker
+- 🤔 Other interests: Linode, Raspberry PI, Go, computer science (esp. networking)
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/tfzrch/)
 
 ***
@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width=80 height=80 alt="R Icon" title="R">&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" width=80 height=80 alt="RStudio Icon" title="RStudio">&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width=80 height=80 alt="Python Icon" title="Python">&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width=80 height=80 alt="SQLite Icon" title="SQLite">&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width=80 height=80 alt="PostgreSQL Icon" title="PostgreSQL">&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=80 height=80 alt="MySQL Icon" title="MySQL">&nbsp;&nbsp;
@@ -56,10 +55,15 @@ Here are some ideas to get you started:
 
 <br>
 
-I mainly work in R - using the tidyverse suite, RMarkdown and Shiny. I also use Python to teach data analytics in Pandas, Scikit-Learn, Statsmodels and Scipy. 
+I mainly work in R - using the [tidyverse](https://www.tidyverse.org/), [tidyverts](https://tidyverts.org/) and [tidymodels](https://www.tidymodels.org/) suites, [RMarkdown](https://rmarkdown.rstudio.com/), [Quarto](https://quarto.org/) and [Shiny](https://shiny.posit.co/).
 
-I'm currently using Linux on Manjaro Desktop and Raspberry Pi to grow my knowledge of the command line and shell scripting with Zsh and Bash, and to start using Docker.
+I also use Python (numpy, scipy, matplotlib, seaborn, statsmodels, scikit-learn) for teaching data analysis, and the occasional software project.
 
+My prefered platform for data science and software development is Linux. Currently I use Fedora, with my R environment in a Docker container using a [Rocker](https://rocker-project.org/) image. I've started learning [NixOS](https://nixos.org/).
+
+My [website](https://tfzrch.github.io/) is built with [Quarto](https://quarto.org/) and deployed using GitHub pages.
+
+For databases, I work most often with SQLite and PostgreSQL. I also know MySQL.
 
 <!-- Recent posts section - add workflow later
 ## ✍️ Recent Posts
