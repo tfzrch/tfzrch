@@ -59,7 +59,7 @@ I mainly work in R - using the [tidyverse](https://www.tidyverse.org/), [tidyver
 
 I also use Python (numpy, scipy, matplotlib, seaborn, statsmodels, scikit-learn) for teaching data analysis, and the occasional software project.
 
-My prefered platform for data science and software development is Linux. Currently I use Fedora, with my R environment in a Docker container using a [Rocker](https://rocker-project.org/) image. I've started learning [NixOS](https://nixos.org/).
+My prefered platform for data science and software development is Linux. Currently I use [NixOS](https://nixos.org/), with my R environment in a Docker container using a [Rocker](https://rocker-project.org/) image.
 
 My [website](https://tfzrch.github.io/) is built with [Quarto](https://quarto.org/) and deployed using GitHub pages.
 
